@@ -47,7 +47,7 @@ module Salto
 
     def send_message(message)
       send_request(encode_message(message))
-      puts message
+      
     end
 
     def encode_message(message)

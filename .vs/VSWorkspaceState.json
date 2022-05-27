@@ -1,14 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.semaphore",
-    "\\bin",
-    "\\config",
     "\\config\\locales",
     "\\lib",
     "\\lib\\salto",
-    "\\lib\\salto\\messages",
     "\\lib\\salto\\support"
   ],
+  "SelectedNode": "\\lib\\salto\\client.rb",
   "PreviewInSolutionExplorer": false
 }
