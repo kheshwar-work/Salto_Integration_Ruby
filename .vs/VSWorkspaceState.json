@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.semaphore",
+    "\\bin",
+    "\\config",
+    "\\config\\locales",
+    "\\lib",
+    "\\lib\\salto",
+    "\\lib\\salto\\messages",
+    "\\lib\\salto\\support"
+  ],
+  "PreviewInSolutionExplorer": false
+}
